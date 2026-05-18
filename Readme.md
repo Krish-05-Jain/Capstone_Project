@@ -93,4 +93,4 @@ Discount impact and profitability.
 4. **Automated Pipeline:** 8-minute runtime on Databricks Workflows with task dependencies and retry logic.
 
 ---
-**Team Members:** Krish Jain, Kartik Ashtagi, Kethu Lahari, Sai Bharadwaj
+
